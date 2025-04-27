@@ -1,0 +1,13 @@
+算法 | 数据类型 | 最大内存使用量
+--- | --- | ---
+Apriori | getusparseItems | 52.6875 MB
+FPGrowth | getusparseItems | 50.6094 MB
+Eclat | getusparseItems | 51.0625 MB
+Apriori | getudenseItems | 102.234 MB
+FPGrowth | getudenseItems | 65.9688 MB
+Eclat | getudenseItems | 64.375 MB
+Apriori | getulong_patternItems | 490.344 MB
+FPGrowth | getulong_patternItems | 77.7656 MB
+Eclat | getulong_patternItems | 58.7656 MB
+FPGrowth | getuultra_denseItems | 1179.62 MB
+Eclat | getuultra_denseItems | 234.125 MB
